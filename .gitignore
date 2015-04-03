@@ -8,3 +8,6 @@ pom.xml.asc
 /.lein-*
 /.nrepl-port
 /resources/wordsEn.txt
+*.iml
+*.ipr
+*.iws
