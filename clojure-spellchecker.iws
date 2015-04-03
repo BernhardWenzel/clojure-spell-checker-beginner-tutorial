@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcc96544-008d-4a2e-9352-1f2334895803" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clojure-spellchecker.ipr" afterPath="$PROJECT_DIR$/clojure-spellchecker.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clojure-spellchecker.iws" afterPath="$PROJECT_DIR$/clojure-spellchecker.iws" />
     </list>
     <ignored path="clojure-spellchecker.iws" />
@@ -1074,7 +1071,7 @@
       <workItem from="1427785893963" duration="806000" />
       <workItem from="1427788814290" duration="9797000" />
       <workItem from="1428045950294" duration="32000" />
-      <workItem from="1428046037529" duration="5420000" />
+      <workItem from="1428046037529" duration="5439000" />
     </task>
     <task id="LOCAL-00001" summary="fixed license, remove idea files">
       <created>1428060268205</created>
@@ -1082,11 +1079,17 @@
       <option name="project" value="LOCAL" />
       <updated>1428060268205</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed license, remove idea files">
+      <created>1428060292600</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1428060292600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19105000" />
+    <option name="totallyTimeSpent" value="19124000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
